@@ -1,8 +1,7 @@
-![logo]()
+![logo](https://github.com/AyushMayekar/AyushMayekar/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm AYUSH MAYEKAR</h1>
 <h3 align="center">An Artificial Intelligence and Data Science Student from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/AyushMayekar/AyushMayekar/assets/147014944/86b182d9-a267-40c6-ade2-1abb21ed7626)
-">
+<img align="right" alt="coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmayekar&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmayekar" /> </p>
 
