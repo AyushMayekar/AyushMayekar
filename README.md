@@ -1,13 +1,14 @@
-![logo](https://github.com/AyushMayekar/AyushMayekar/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm AYUSH MAYEKAR</h1>
+![logo](https://github.com/AyushMayekar/AyushMayekar/blob/a77cb642194853d434cb84103ff54d1e10abc5d1/AYUSH%20P%20MAYEKAR.png)
+
+<h1 align="center">Hi!! 👋, I'm AYUSH MAYEKAR</h1>
 <h3 align="center">An Artificial Intelligence and Data Science Student from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmayekar&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmayekar" /> </p>
 
-- 🌱 I’m currently learning **Python, Prompt Engineering, Machine Learning and Blockchain**
+- 🌱 I’m currently learning **Python, Prompt Engineering, Machine Learning and Generative AI!!**
 
-- 📫 How to reach me **ayushmayekar2004@gmail.com,ayush.224947101@vcet.edu.in**
+- 📫 How to reach me **ayushmayekar2004@gmail.com, ayush.224947101@vcet.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
