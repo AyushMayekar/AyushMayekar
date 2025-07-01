@@ -17,7 +17,7 @@
   `Python`, `Prompt Engineering`, `Machine Learning`, and `Generative AI`
 
 - 📧 You can reach me at:  
-  **ayushmayekar2004@gmail.com** | **ayush.224947101@vcet.edu.in**
+  **ayushmayekardev@gmail.com** 
 
 ---
 
